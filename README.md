@@ -46,9 +46,10 @@ Lucas Gabriel - lucas.gabrielf@ufrpe.br  Link do Projeto: [https://github.com/lu
 
 ## Agradecimentos
 
-Somos gratos e gostaríamos de agradecer imensamente ao professor Cleyton Magalhães, por ter nos proporcionado um aprendizado acolhedor e desafios (constantemente), assim incentivando uma construção sólida da nossa base em Python.
+Somos gratos e gostaríamos de agradecer imensamente ao professor [Cleyton Magalhães](https://github.com/profcvanut), por ter nos proporcionado um aprendizado acolhedor e desafios (constantemente), assim incentivando uma construção sólida da nossa base em Python.
 
 GitHub - [https://github.com/profcvanut](https://github.com/profcvanut)
+
 Instagram - [https://www.instagram.com/prof.cvanut/](https://www.instagram.com/prof.cvanut/)
 
 
