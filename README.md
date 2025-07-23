@@ -38,15 +38,16 @@ import random
 
 ## Time
 
-Clara Helena - clara.helena.souza@email.com  Link do Projeto: [https://github.com/clarahelena/alemdomapa](https://github.com/clarahelena/alemdomapa) <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
+Clara Helena - clara.helena.souza@email.com  Link do Projeto: [https://github.com/clarahelena/alemdomapa](https://github.com/clarahelena/alemdomapa) 
 
-Lucas Gabriel - lucas.gabrielf@ufrpe.br  Link do Projeto: [https://github.com/lux0blivion/alemdomapa](https://github.com/lux0blivion/alemdomapa) <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
+Lucas Gabriel - lucas.gabrielf@ufrpe.br  Link do Projeto: [https://github.com/lux0blivion/alemdomapa](https://github.com/lux0blivion/alemdomapa) 
 
 
 
 ## Agradecimentos
 
-Somos gratos e gostariamos de agradecer imensamente ao professor Cleyton Magalhães, por ter nos proporcionado um aprendizado acolhedor e desafios(constantemente), assim incentivando uma construção sólida da nossa base em Python.
+Somos gratos e gostaríamos de agradecer imensamente ao professor Cleyton Magalhães, por ter nos proporcionado um aprendizado acolhedor e desafios (constantemente), assim incentivando uma construção sólida da nossa base em Python.
+
 GitHub - [https://github.com/profcvanut](https://github.com/profcvanut)
 Instagram - [https://www.instagram.com/prof.cvanut/](https://www.instagram.com/prof.cvanut/)
 
