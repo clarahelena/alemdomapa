@@ -1,0 +1,18 @@
+{
+    "id": 10,
+    "nome": "nami",
+    "email": "nami@gmail.com",
+    "senha": "12345678m",
+    "interesses": [
+        "Pop",
+        "Vegano",
+        "Balada"
+    ],
+    "regiao": "recife - pernambuco",
+    "localidade": "recife - pernambuco",
+    "conhecer": [
+        15,
+        39,
+        23
+    ]
+}

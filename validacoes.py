@@ -1,9 +1,9 @@
 import re
+#Importação da biblioteca re que é usada para validar os padroes dos inputs fornecidos do usuario
 
-def email_valido(email):
-    """
-    Verifica se o email é válido (formato e domínios permitidos).
-    """
+
+#Verifica se a string do email segue o padrao(caracteres antes do @ e se tem o dominio gmail e hotmail), e retorna um valor booleano
+def emailValido(email):
     email = email.strip()
     if ' ' in email:
         return False
@@ -11,11 +11,8 @@ def email_valido(email):
     return re.match(padrao, email)
 
 
-
-def senha_valida(senha):
-    """
-    Verifica se a senha é válida (mínimo 8 caracteres, letras, números, sem espaços).
-    """
+#Verifica se a senha nao tem espaços, se tem no minimo 8 caracteres e se contem pelo menos 1 letra e 1 numero
+def senhaValida(senha):
     if senha != senha.strip():
         return False
     if ' ' in senha:
@@ -29,9 +26,6 @@ def senha_valida(senha):
     return True
 
 
-
-def telefone_valido(telefone):
-    """
-    Verifica se o telefone é válido (11 dígitos numéricos).
-    """
+#Verifica se a string contem apenas numeros e se é igual a 11(DDD+Numero)
+def telefoneValido(telefone):
     return telefone.isdigit() and len(telefone) == 11

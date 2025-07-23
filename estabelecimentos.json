@@ -12,7 +12,14 @@
         "regiao": "recife - pernambuco",
         "endereco": "Rua da Moeda, 102, Recife Antigo, Recife",
         "telefone": "(81) 98877-1234",
-        "bio": "Bar aconchegante com uma vasta coleção de vinil, focado em jazz e blues, perfeito para um encontro mais reservado."
+        "bio": "Bar aconchegante com uma vasta coleção de vinil, focado em jazz e blues, perfeito para um encontro mais reservado.",
+        "avaliacoes": [
+            4,
+            5,
+            3,
+            2,
+            5
+        ]
     },
     {
         "id": 2,
@@ -27,7 +34,14 @@
         "regiao": "olinda - pernambuco",
         "endereco": "Ladeira da Misericórdia, 78, Sítio Histórico, Olinda",
         "telefone": "(81) 99988-5678",
-        "bio": "Autêntica roda de samba, petiscos de boteco e cervejas artesanais locais em um ambiente vibrante de Olinda."
+        "bio": "Autêntica roda de samba, petiscos de boteco e cervejas artesanais locais em um ambiente vibrante de Olinda.",
+        "avaliacoes": [
+            5,
+            4,
+            5,
+            4,
+            3
+        ]
     },
     {
         "id": 3,
@@ -42,7 +56,14 @@
         "regiao": "recife - pernambuco",
         "endereco": "Av. Conselheiro Aguiar, 1250, Boa Viagem, Recife",
         "telefone": "(81) 98123-4567",
-        "bio": "O paraíso dos geeks! Muitos jogos de tabuleiro e eletrônicos, drinks temáticos e eventos da cultura pop."
+        "bio": "O paraíso dos geeks! Muitos jogos de tabuleiro e eletrônicos, drinks temáticos e eventos da cultura pop.",
+        "avaliacoes": [
+            5,
+            4,
+            5,
+            5,
+            4
+        ]
     },
     {
         "id": 4,
@@ -57,7 +78,14 @@
         "regiao": "jaboatão dos guararapes - pernambuco",
         "endereco": "Av. Bernardo Vieira de Melo, 3400, Piedade, Jaboatão",
         "telefone": "(81) 99777-8899",
-        "bio": "Shows ao vivo com o melhor do sertanejo, pista de dança animada e ambiente para quem gosta de festar."
+        "bio": "Shows ao vivo com o melhor do sertanejo, pista de dança animada e ambiente para quem gosta de festar.",
+        "avaliacoes": [
+            3,
+            4,
+            3,
+            5,
+            4
+        ]
     },
     {
         "id": 5,
@@ -72,7 +100,14 @@
         "regiao": "recife - pernambuco",
         "endereco": "Rua do Futuro, 959, Graças, Recife",
         "telefone": "(81) 98234-5679",
-        "bio": "Traga seu pet para desfrutar de cafés especiais em nossa varanda. Um oásis de tranquilidade e sabor na cidade."
+        "bio": "Traga seu pet para desfrutar de cafés especiais em nossa varanda. Um oásis de tranquilidade e sabor na cidade.",
+        "avaliacoes": [
+            5,
+            5,
+            1,
+            3,
+            4
+        ]
     },
     {
         "id": 6,
@@ -87,7 +122,14 @@
         "regiao": "recife - pernambuco",
         "endereco": "Rua das Ninfas, 54, Boa Vista, Recife",
         "telefone": "(81) 99654-3210",
-        "bio": "Noites de rock, do clássico ao alternativo, com mesa de sinuca e um ambiente descolado e autêntico."
+        "bio": "Noites de rock, do clássico ao alternativo, com mesa de sinuca e um ambiente descolado e autêntico.",
+        "avaliacoes": [
+            4,
+            5,
+            3,
+            4,
+            5
+        ]
     },
     {
         "id": 7,
@@ -102,7 +144,14 @@
         "regiao": "recife - pernambuco",
         "endereco": "Av. Herculano Bandeira, 777, Pina, Recife",
         "telefone": "(81) 98888-1111",
-        "bio": "A sua noite de diversidade e brilho! Balada LGBT com os melhores hits pop, performances e um ambiente acolhedor."
+        "bio": "A sua noite de diversidade e brilho! Balada LGBT com os melhores hits pop, performances e um ambiente acolhedor.",
+        "avaliacoes": [
+            5,
+            5,
+            4,
+            5,
+            4
+        ]
     },
     {
         "id": 8,
@@ -117,7 +166,14 @@
         "regiao": "paulista - pernambuco",
         "endereco": "Estrada do Catolé, S/N, Chã de Cruz, Paulista",
         "telefone": "(81) 99111-2233",
-        "bio": "Sinta a tradição nordestina com muito forró, comidas regionais e um amplo espaço ao ar livre para dançar e celebrar."
+        "bio": "Sinta a tradição nordestina com muito forró, comidas regionais e um amplo espaço ao ar livre para dançar e celebrar.",
+        "avaliacoes": [
+            4,
+            5,
+            4,
+            3,
+            5
+        ]
     },
     {
         "id": 9,
@@ -132,7 +188,25 @@
         "regiao": "recife - pernambuco",
         "endereco": "Rua da Alfândega, 35, Recife Antigo, Recife (2º andar)",
         "telefone": "(81) 98765-4321",
-        "bio": "Espaço charmoso para apreciar bons vinhos ao som de MPB acústico. Perfeito para casais e apreciadores de boa música."
+        "bio": "Espaço charmoso para apreciar bons vinhos ao som de MPB acústico. Perfeito para casais e apreciadores de boa música.",
+        "avaliacoes": [
+            5,
+            5,
+            4,
+            5,
+            4,
+            4
+        ],
+        "avaliadores": [
+            1
+        ],
+        "avaliacoes_detalhadas": [
+            {
+                "id_usuario": 1,
+                "nota": 4,
+                "local": true
+            }
+        ]
     },
     {
         "id": 10,
@@ -147,7 +221,14 @@
         "regiao": "recife - pernambuco",
         "endereco": "Rua da Guia, 222, Bairro do Recife, Recife",
         "telefone": "(81) 99555-4433",
-        "bio": "Gargalhadas garantidas com stand-up comedy. Aproveite nosso happy hour e deliciosos petiscos em um ambiente divertido."
+        "bio": "Gargalhadas garantidas com stand-up comedy. Aproveite nosso happy hour e deliciosos petiscos em um ambiente divertido.",
+        "avaliacoes": [
+            4,
+            5,
+            3,
+            4,
+            5
+        ]
     },
     {
         "id": 11,
@@ -162,7 +243,14 @@
         "regiao": "recife - pernambuco",
         "endereco": "Praça de Casa Forte, 454, Casa Forte, Recife",
         "telefone": "(81) 98333-7766",
-        "bio": "Um café que respira arte. Exposições rotativas, ambiente inspirador e cafés especiais para acompanhar sua visita cultural."
+        "bio": "Um café que respira arte. Exposições rotativas, ambiente inspirador e cafés especiais para acompanhar sua visita cultural.",
+        "avaliacoes": [
+            5,
+            4,
+            5,
+            3,
+            4
+        ]
     },
     {
         "id": 12,
@@ -177,7 +265,14 @@
         "regiao": "recife - pernambuco",
         "endereco": "Av. Domingos Ferreira, 4060, Boa Viagem, Recife",
         "telefone": "(81) 99432-1098",
-        "bio": "Solte a voz em nosso karaokê! Cardápio variado de músicas, drinks clássicos e espaço ideal para reunir os amigos."
+        "bio": "Solte a voz em nosso karaokê! Cardápio variado de músicas, drinks clássicos e espaço ideal para reunir os amigos.",
+        "avaliacoes": [
+            3,
+            4,
+            5,
+            4,
+            3
+        ]
     },
     {
         "id": 13,
@@ -192,7 +287,14 @@
         "regiao": "olinda - pernambuco",
         "endereco": "Rua do Amparo, 150, Amparo, Olinda",
         "telefone": "(81) 98665-5544",
-        "bio": "Delícias 100% vegetais, com opções veganas e vegetarianas criativas e saborosas. Sucos frescos e ambiente acolhedor em Olinda."
+        "bio": "Delícias 100% vegetais, com opções veganas e vegetarianas criativas e saborosas. Sucos frescos e ambiente acolhedor em Olinda.",
+        "avaliacoes": [
+            5,
+            5,
+            4,
+            5,
+            4
+        ]
     },
     {
         "id": 14,
@@ -207,7 +309,25 @@
         "regiao": "recife - pernambuco",
         "endereco": "Rooftop do Ed. Pernambuco, Av. Dantas Barreto, 500, Santo Antônio, Recife",
         "telefone": "(81) 99900-0011",
-        "bio": "Curta o melhor da música eletrônica com DJs convidados e uma vista deslumbrante do Recife. Festas memoráveis no nosso rooftop."
+        "bio": "Curta o melhor da música eletrônica com DJs convidados e uma vista deslumbrante do Recife. Festas memoráveis no nosso rooftop.",
+        "avaliacoes": [
+            4,
+            5,
+            5,
+            4,
+            5,
+            4
+        ],
+        "avaliadores": [
+            1
+        ],
+        "avaliacoes_detalhadas": [
+            {
+                "id_usuario": 1,
+                "nota": 4,
+                "local": true
+            }
+        ]
     },
     {
         "id": 15,
@@ -222,7 +342,14 @@
         "regiao": "recife - pernambuco",
         "endereco": "Rua da Harmonia, 45, Casa Amarela, Recife",
         "telefone": "(81) 98555-6677",
-        "bio": "O verdadeiro boteco recifense! Cerveja gelada, tira-gostos tradicionais, transmissão de jogos e ambiente popular."
+        "bio": "O verdadeiro boteco recifense! Cerveja gelada, tira-gostos tradicionais, transmissão de jogos e ambiente popular.",
+        "avaliacoes": [
+            4,
+            3,
+            5,
+            4,
+            3
+        ]
     },
     {
         "id": 16,
@@ -237,7 +364,14 @@
         "regiao": "recife - pernambuco",
         "endereco": "Rua do Brum, 120, Recife Antigo, Recife",
         "telefone": "(81) 99222-3344",
-        "bio": "Venha dançar o autêntico forró pé-de-serra em um dos casarões históricos do Recife Antigo. Música ao vivo e muita animação."
+        "bio": "Venha dançar o autêntico forró pé-de-serra em um dos casarões históricos do Recife Antigo. Música ao vivo e muita animação.",
+        "avaliacoes": [
+            5,
+            4,
+            5,
+            4,
+            5
+        ]
     },
     {
         "id": 17,
@@ -252,7 +386,14 @@
         "regiao": "olinda - pernambuco",
         "endereco": "Rua de São Bento, 450, Sítio Histórico, Olinda (fundos)",
         "telefone": "(81) 98444-5566",
-        "bio": "Um refúgio em Olinda com jardim, exposições de artistas locais, oficinas de artesanato e comidinhas feitas com carinho."
+        "bio": "Um refúgio em Olinda com jardim, exposições de artistas locais, oficinas de artesanato e comidinhas feitas com carinho.",
+        "avaliacoes": [
+            5,
+            5,
+            4,
+            3,
+            5
+        ]
     },
     {
         "id": 18,
@@ -267,7 +408,14 @@
         "regiao": "recife - pernambuco",
         "endereco": "Rua Visconde de Goiana, 333, Derby, Recife",
         "telefone": "(81) 99666-7788",
-        "bio": "O ponto de encontro para assistir aos jogos do seu time! Telões, cerveja gelada, petiscos caprichados e promoções de happy hour."
+        "bio": "O ponto de encontro para assistir aos jogos do seu time! Telões, cerveja gelada, petiscos caprichados e promoções de happy hour.",
+        "avaliacoes": [
+            4,
+            3,
+            5,
+            4,
+            4
+        ]
     },
     {
         "id": 19,
@@ -282,7 +430,14 @@
         "regiao": "olinda - pernambuco",
         "endereco": "Alto da Sé, Mirante da Caixa D'Água, Olinda",
         "telefone": "(81) 98777-8899",
-        "bio": "Aprecie a vista mais famosa de Olinda ao som de MPB acústico. Um lugar tranquilo para relaxar, tomar um bom vinho e conversar."
+        "bio": "Aprecie a vista mais famosa de Olinda ao som de MPB acústico. Um lugar tranquilo para relaxar, tomar um bom vinho e conversar.",
+        "avaliacoes": [
+            5,
+            5,
+            4,
+            5,
+            5
+        ]
     },
     {
         "id": 20,
@@ -297,7 +452,14 @@
         "regiao": "recife - pernambuco",
         "endereco": "Rua das Pernambucanas, 200, Graças, Recife",
         "telefone": "(81) 99333-1122",
-        "bio": "Balada com foco em indie dance, synth-pop e vertentes alternativas da música eletrônica. Ambiente moderno e drinks autorais."
+        "bio": "Balada com foco em indie dance, synth-pop e vertentes alternativas da música eletrônica. Ambiente moderno e drinks autorais.",
+        "avaliacoes": [
+            5,
+            4,
+            5,
+            3,
+            5
+        ]
     },
     {
         "id": 21,
@@ -312,7 +474,14 @@
         "regiao": "recife - pernambuco",
         "endereco": "Rua do Hospício, 777, Boa Vista, Recife",
         "telefone": "(81) 98989-0011",
-        "bio": "Entre no mundo Viking! Decoração temática, hidromel artesanal, cervejas especiais e muito rock 'n' roll."
+        "bio": "Entre no mundo Viking! Decoração temática, hidromel artesanal, cervejas especiais e muito rock 'n' roll.",
+        "avaliacoes": [
+            4,
+            5,
+            4,
+            5,
+            4
+        ]
     },
     {
         "id": 22,
@@ -327,14 +496,21 @@
         "regiao": "olinda - pernambuco",
         "endereco": "Avenida Sigismundo Gonçalves, 512, Carmo, Olinda",
         "telefone": "(81) 99191-2233",
-        "bio": "Música popular brasileira ao vivo, axé das antigas e pagode em um ambiente descontraído com drinks tropicais e vista para o mar de Olinda."
+        "bio": "Música popular brasileira ao vivo, axé das antigas e pagode em um ambiente descontraído com drinks tropicais e vista para o mar de Olinda.",
+        "avaliacoes": [
+            3,
+            4,
+            5,
+            4,
+            5
+        ]
     },
     {
         "id": 23,
-        "nome": "yoki",
+        "nome": "Yoki Asian Food",
         "email": "yoki@gmail.com",
         "senha": "12345678m",
-        "endereco": "recife, pernambuco",
+        "endereco": "Rua tal tal, Derby, Recife - Pernambuco",
         "interesses": [
             "Pop",
             "Vinhos",
@@ -342,6 +518,393 @@
         ],
         "bio": "Oi sou o yoki",
         "telefone": "81986590823",
-        "regiao": "Recife - Pernambuco"
+        "regiao": "Recife - Pernambuco",
+        "avaliacoes": [
+            5,
+            4,
+            5,
+            3,
+            4,
+            4
+        ],
+        "avaliadores": [
+            1
+        ],
+        "avaliacoes_detalhadas": [
+            {
+                "id_usuario": 1,
+                "nota": 4,
+                "local": true
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "nome": "chinaincox",
+        "email": "123@gmail.com",
+        "senha": "12345678m",
+        "endereco": "rua dois irmãos, recife",
+        "interesses": [
+            "pop",
+            "drinks",
+            "vinil"
+        ],
+        "bio": "Somos um rest clean",
+        "telefone": "81986542367",
+        "regiao": "Recife - Pernambuco",
+        "avaliacoes": [
+            4,
+            5,
+            4,
+            5,
+            3
+        ]
+    },
+    {
+        "id": 25,
+        "nome": "Favela Roots Tour",
+        "email": "contato@favelaroots.com",
+        "senha": "tour123",
+        "interesses": [
+            "Tour em favelas",
+            "Cultural",
+            "Ar Livre"
+        ],
+        "regiao": "recife - pernambuco",
+        "endereco": "Morro da Conceição, Recife",
+        "telefone": "(81) 98888-1122",
+        "bio": "Guias locais oferecem passeios por comunidades com histórias, arte urbana e culinária típica.",
+        "avaliacoes": [
+            5,
+            5,
+            4,
+            5,
+            4
+        ]
+    },
+    {
+        "id": 26,
+        "nome": "Batalha do Alto",
+        "email": "alto.batalha@rapmail.com",
+        "senha": "batalha2023",
+        "interesses": [
+            "Batalha de Rap",
+            "Grupos",
+            "Alternativo"
+        ],
+        "regiao": "olinda - pernambuco",
+        "endereco": "Praça do Alto da Sé, Olinda",
+        "telefone": "(81) 99123-4455",
+        "bio": "Encontro semanal de MCs da região com microfone aberto, rima livre e cultura urbana.",
+        "avaliacoes": [
+            5,
+            4,
+            5,
+            5
+        ]
+    },
+    {
+        "id": 27,
+        "nome": "Bar da Esquina",
+        "email": "bar.esquina@gmail.com",
+        "senha": "boteco123",
+        "interesses": [
+            "Boteco",
+            "Samba",
+            "Petiscos"
+        ],
+        "regiao": "recife - pernambuco",
+        "endereco": "Rua das Frutas, 110, Boa Vista, Recife",
+        "telefone": "(81) 99776-8899",
+        "bio": "Samba de mesa, feijoada e cerveja gelada no coração do Recife Antigo.",
+        "avaliacoes": [
+            4,
+            4,
+            5,
+            3
+        ]
+    },
+    {
+        "id": 28,
+        "nome": "Casa Reggae Olinda",
+        "email": "reggaevibes@olinda.com",
+        "senha": "roots456",
+        "interesses": [
+            "Reggae",
+            "Alternativo",
+            "Ao Vivo"
+        ],
+        "regiao": "olinda - pernambuco",
+        "endereco": "Rua do Sol, 231, Olinda",
+        "telefone": "(81) 99345-6677",
+        "bio": "Sons jamaicanos e nordestinos em um ambiente descontraído com vista para o mar.",
+        "avaliacoes": [
+            5,
+            5,
+            5,
+            4,
+            4
+        ]
+    },
+    {
+        "id": 29,
+        "nome": "Armazém Afroempreendedor",
+        "email": "contato@armazemafro.com",
+        "senha": "negro123",
+        "interesses": [
+            "Empreendedorismo Negro",
+            "Cultural",
+            "Artesanal"
+        ],
+        "regiao": "recife - pernambuco",
+        "endereco": "Rua do Bom Jesus, Recife Antigo",
+        "telefone": "(81) 98989-1111",
+        "bio": "Espaço colaborativo para negócios de empreendedores negros e eventos culturais.",
+        "avaliacoes": [
+            5,
+            5,
+            4,
+            4,
+            5
+        ]
+    },
+    {
+        "id": 30,
+        "nome": "Café com Jazz",
+        "email": "cafejazz@olinda.com",
+        "senha": "jazzlove",
+        "interesses": [
+            "Jazz",
+            "Café",
+            "Tranquilo"
+        ],
+        "regiao": "olinda - pernambuco",
+        "endereco": "Rua Prudente de Morais, Olinda",
+        "telefone": "(81) 99456-7777",
+        "bio": "Jazz instrumental ao vivo com cafés artesanais e ambiente acolhedor.",
+        "avaliacoes": [
+            5,
+            4,
+            5
+        ]
+    },
+    {
+        "id": 31,
+        "nome": "Carnaval das Ruas",
+        "email": "blocosrua@frevo.com",
+        "senha": "carnaval365",
+        "interesses": [
+            "Blocos de Carnaval de Rua",
+            "Festa",
+            "Popular"
+        ],
+        "regiao": "recife - pernambuco",
+        "endereco": "Vários pontos da cidade",
+        "telefone": "(81) 99900-0001",
+        "bio": "Blocos culturais que celebram o carnaval tradicional durante o ano inteiro.",
+        "avaliacoes": [
+            5,
+            5,
+            5,
+            4,
+            5
+        ]
+    },
+    {
+        "id": 32,
+        "nome": "Bar do Vinil",
+        "email": "bardovinil@gmail.com",
+        "senha": "vinilrock",
+        "interesses": [
+            "Vinil",
+            "Rock",
+            "Drinks"
+        ],
+        "regiao": "olinda - pernambuco",
+        "endereco": "Rua do Amparo, Olinda",
+        "telefone": "(81) 99999-0002",
+        "bio": "Bar com acervo de discos e DJs especializados em clássicos do rock e MPB.",
+        "avaliacoes": [
+            4,
+            5,
+            5
+        ]
+    },
+    {
+        "id": 33,
+        "nome": "Feirinha da Rua",
+        "email": "comidaderua@recife.com",
+        "senha": "ruafood123",
+        "interesses": [
+            "Comida de rua",
+            "Drinks",
+            "Cultural"
+        ],
+        "regiao": "recife - pernambuco",
+        "endereco": "Praça Maciel Pinheiro, Recife",
+        "telefone": "(81) 99888-6677",
+        "bio": "Feira de comida local com DJs, oficinas e produtos artesanais.",
+        "avaliacoes": [
+            4,
+            5,
+            4
+        ]
+    },
+    {
+        "id": 34,
+        "nome": "Coletivo Raízes",
+        "email": "raizes@coletivo.com",
+        "senha": "coletivo2024",
+        "interesses": [
+            "Grupos",
+            "Cultural",
+            "Arte"
+        ],
+        "regiao": "recife - pernambuco",
+        "endereco": "Casa Amarela, Recife",
+        "telefone": "(81) 99090-2121",
+        "bio": "Coletivo artístico que promove encontros de arte urbana e rodas culturais.",
+        "avaliacoes": [
+            5,
+            4,
+            5
+        ]
+    },
+    {
+        "id": 35,
+        "nome": "Doce Favela Bar",
+        "email": "docefavela@gmail.com",
+        "senha": "favela123",
+        "interesses": [
+            "Drinks",
+            "Cultural",
+            "Bebidas Artesanais"
+        ],
+        "regiao": "recife - pernambuco",
+        "endereco": "Rua do Apolo, Recife Antigo",
+        "telefone": "(81) 98888-2244",
+        "bio": "Bar com drinks autorais inspirados na cultura das comunidades do Recife.",
+        "avaliacoes": [
+            4,
+            4,
+            4,
+            5
+        ]
+    },
+    {
+        "id": 36,
+        "nome": "Forró do Mercado",
+        "email": "forromercado@olinda.com",
+        "senha": "forro2024",
+        "interesses": [
+            "Forró",
+            "Popular",
+            "Ao Vivo"
+        ],
+        "regiao": "olinda - pernambuco",
+        "endereco": "Mercado da Ribeira, Olinda",
+        "telefone": "(81) 99777-1010",
+        "bio": "Trio pé de serra e arrasta-pé todo final de semana.",
+        "avaliacoes": [
+            5,
+            4,
+            5,
+            5
+        ]
+    },
+    {
+        "id": 37,
+        "nome": "Recife Sounds Club",
+        "email": "soundclub@recife.com",
+        "senha": "eletronico123",
+        "interesses": [
+            "Eletrônico",
+            "DJ",
+            "Drinks"
+        ],
+        "regiao": "recife - pernambuco",
+        "endereco": "Rua Madre de Deus, Recife Antigo",
+        "telefone": "(81) 99933-4455",
+        "bio": "Casa noturna com festas de música eletrônica e DJs convidados nacionais.",
+        "avaliacoes": [
+            4,
+            5,
+            5,
+            5
+        ]
+    },
+    {
+        "id": 38,
+        "nome": "Ponto Samba Raiz",
+        "email": "samba@ponto.com",
+        "senha": "sambaroots2",
+        "interesses": [
+            "Roda de Samba",
+            "Popular",
+            "Petiscos"
+        ],
+        "regiao": "recife - pernambuco",
+        "endereco": "Rua da Aurora, Recife",
+        "telefone": "(81) 98765-3210",
+        "bio": "Roda de samba com músicos da comunidade e cerveja de garrafa.",
+        "avaliacoes": [
+            5,
+            5,
+            4
+        ]
+    },
+    {
+        "id": 39,
+        "nome": "IRAQ",
+        "email": "iraq.recife@clubmail.com",
+        "senha": "techno2025",
+        "interesses": [
+            "Techno",
+            "Balada",
+            "Eletrônico"
+        ],
+        "regiao": "recife - pernambuco",
+        "endereco": "R. do Sossego, 179 - Santo Amaro, Recife - PE, 50050-080",
+        "telefone": "(81) 99812-3344",
+        "bio": "Clube underground de música eletrônica com foco em techno, DJs locais e internacionais. Ambiente intenso e imersivo no coração da cidade.",
+        "avaliacoes": [
+            5,
+            5,
+            4,
+            5,
+            5
+        ],
+        "avaliadores": [
+            10
+        ],
+        "avaliacoes_detalhadas": [
+            {
+                "id_usuario": 10,
+                "nota": 5,
+                "local": true
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "nome": "Casa Bacurau",
+        "email": "bacurau@recifeclub.com",
+        "senha": "baladanova",
+        "interesses": [
+            "Balada",
+            "Techno",
+            "Drinks"
+        ],
+        "regiao": "recife - pernambuco",
+        "endereco": "R. Cap. Lima, 100 - Santo Amaro, Recife - PE, 50040-080",
+        "telefone": "(81) 98765-8899",
+        "bio": "Balada democrática com música dançante, performances artísticas e drinks autorais. A noite recifense como você nunca viu.",
+        "avaliacoes": [
+            4,
+            5,
+            5,
+            5,
+            4
+        ]
     }
 ]

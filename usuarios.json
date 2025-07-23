@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "nome": "clara",
+        "nome": "Clara H",
         "email": "123@gmail.com",
         "senha": "12345678m",
         "interesses": [
@@ -9,7 +9,13 @@
             "Pop",
             "Vinhos"
         ],
-        "regiao": "Recife - Pernambuco"
+        "regiao": "Recife - Pernambuco",
+        "localidade": "Recife - Pernambuco",
+        "tipo": "usuario",
+        "conhecer": [
+            9,
+            23
+        ]
     },
     {
         "id": 2,
@@ -20,6 +26,124 @@
             "vinil",
             "pop"
         ],
-        "regiao": "VEGANO"
+        "regiao": "Recife - Pernambuco",
+        "localidade": "Recife - Pernambuco",
+        "tipo": "usuario"
+    },
+    {
+        "id": 3,
+        "nome": "teste",
+        "email": "teste1@gmail.com",
+        "senha": "12345678m",
+        "interesses": [
+            "Dj",
+            "Vinil",
+            "Jazz"
+        ],
+        "regiao": "Olinda - Pernambuco",
+        "localidade": "Olinda - Pernambuco",
+        "tipo": "usuario"
+    },
+    {
+        "id": 4,
+        "nome": "teste2",
+        "email": "teste2@gmail.com",
+        "senha": "12345678m",
+        "interesses": [
+            "dj",
+            "vinil",
+            "samba"
+        ],
+        "regiao": "recife - pernambuco",
+        "localidade": "Recife - Pernambuco",
+        "tipo": "usuario"
+    },
+    {
+        "id": 5,
+        "nome": "teste",
+        "email": "teste3@gmail.com",
+        "senha": "12345678m",
+        "interesses": [
+            "dj",
+            "samba",
+            "pop"
+        ],
+        "regiao": "recife - pernambuco",
+        "localidade": "Recife - Pernambuco",
+        "tipo": "usuario"
+    },
+    {
+        "id": 6,
+        "nome": "teste",
+        "email": "teste4@gmail.com",
+        "senha": "12345678m",
+        "interesses": [
+            "dj",
+            "samba",
+            "boteco"
+        ],
+        "regiao": "recife - pernambuco",
+        "localidade": "Recife - Pernambuco",
+        "tipo": "usuario"
+    },
+    {
+        "id": 7,
+        "nome": "trying",
+        "email": "321@gmail.com",
+        "senha": "12345678m",
+        "interesses": [
+            "Café",
+            "Arte",
+            "Vista"
+        ],
+        "regiao": "Recife - Pernambuco",
+        "localidade": "Recife - Pernambuco",
+        "tipo": "usuario"
+    },
+    {
+        "id": 8,
+        "nome": "novo",
+        "email": "novo@gmail.com",
+        "senha": "12345678m",
+        "interesses": [
+            "dj",
+            "pop",
+            "vista"
+        ],
+        "regiao": "recife - pernambuco",
+        "localidade": "Recife - Pernambuco",
+        "tipo": "usuario"
+    },
+    {
+        "id": 9,
+        "nome": "testando",
+        "email": "testando@gmail.com",
+        "senha": "12345678m",
+        "interesses": [
+            "dj",
+            "pop",
+            "vista"
+        ],
+        "regiao": "recife - pernambuco",
+        "localidade": "recife - pernambuco",
+        "tipo": "usuario"
+    },
+    {
+        "id": 10,
+        "nome": "nami",
+        "email": "nami@gmail.com",
+        "senha": "12345678m",
+        "interesses": [
+            "Pop",
+            "Vegano",
+            "Balada"
+        ],
+        "regiao": "recife - pernambuco",
+        "localidade": "recife - pernambuco",
+        "conhecer": [
+            15,
+            39,
+            23
+        ]
     }
 ]

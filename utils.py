@@ -1,30 +1,29 @@
 import json
-def carregar_dados(caminho):
-    """
-    Carrega dados de um arquivo JSON.
-    Se o arquivo não for encontrado ou estiver vazio/inválido, retorna uma lista vazia.
-    """
+#Importação do modulo json
+
+#Carrega(ler) os dados de um json, se caso o json não for valido, não encontrado ou alguma outra exceção de erro, retorna uma lista vazia para o codigo não travar.
+def carregarJson(caminho):
     try:
         with open(caminho, 'r', encoding='utf-8') as f:
             return json.load(f)
     except (FileNotFoundError, json.JSONDecodeError):
         return []
     except Exception as e:
-        print(f"Ocorreu um erro inesperado ao carregar '{caminho}': {e}")
+        print(f"Ocorreu um erro inesperado ao tentar carregar '{caminho}': {e}")
         return []
 
-def salvar_dados(caminho, dados):
-    """
-    Reescreve o conteudo de um arquivo JSON caso ja tenha dados, se não, cria o conteudo.
-    """
-    with open(caminho, 'w', encoding='utf-8') as f:
-        json.dump(dados, f, ensure_ascii=False, indent=4)
+
+#Salva os dados num json, abrindo o arquivo em modo escrita, os dados convertidos para json, ensure false para salvar as acentuações do português.
+def salvarJson(caminho, dados):
+    try:
+        with open(caminho, 'w', encoding='utf-8') as f:
+            json.dump(dados, f, ensure_ascii=False, indent=4)
+    except IOError as e:
+        print(f"Erro ao tentar salvar {caminho}: {e}")
 
 
-def tipo_de_perfil():
-    """
-    Solicita ao usuário que escolha o tipo de perfil (usuário ou estabelecimento).
-    """
+#Verificar qual é o tipo do perfil, de forma pratica.
+def tipoPerfil():
     print("Qual o tipo do seu perfil?")
     print("1. Usuário")
     print("2. Estabelecimento")
@@ -34,5 +33,21 @@ def tipo_de_perfil():
     elif escolha == "2":
         return "estabelecimento"
     else:
-        print(" Tipo inválido. Tente novamente.\n")
-        return tipo_de_perfil()
+        print("\nTipo inválido, tente novamente.")
+        return tipoPerfil()
+    
+
+#Grava os dados de quem esta logado
+def userLogado(usuario):
+    salvarJson('user_logado.json', usuario)
+
+
+#Lê os dados do usuario logado.
+def sessaoAtiva():
+    try:
+        dados = carregarJson('user_logado.json')
+        return dados if dados else None
+    except Exception as e:
+        print(f"Erro ao tentar carregar a sessão: {e}")
+        return None
+
